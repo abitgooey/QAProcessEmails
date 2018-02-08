@@ -49,30 +49,30 @@ All code released by Gooey should be to a high standard, and semantic:
         <title>Title</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <style type="text/css">
-			#outlook a{padding:0;}
-			body{width:100% !important;-webkit-text-size-adjust:none;margin:0; padding:0; background-color:#ffffff}
-			.ReadMsgBody{width:100%;}
-			.ExternalClass{width:100%;}
-			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
-			table, table td {border-collapse:collapse;}
-			.ExternalClass * {line-height: 100%}
-			@media only screen and (max-width: 479px) {
+		#outlook a{padding:0;}
+		body{width:100% !important;-webkit-text-size-adjust:none;margin:0; padding:0; background-color:#ffffff}
+		.ReadMsgBody{width:100%;}
+		.ExternalClass{width:100%;}
+		img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+		table, table td {border-collapse:collapse;}
+		.ExternalClass * {line-height: 100%}
+		@media only screen and (max-width: 479px) {
 
-				.body {min-width:0 !important}
-				.wrapper {width:320px !important}
-				.panel {width:100% !important; min-width:0px !important}
-				.panel-padded {width:95% !important; padding:0 2.5%; min-width:0px !important}
-				.image {height:auto !important; max-width:100% !important}
-				.hide {display:none!important}
+			.body {min-width:0 !important}
+			.wrapper {width:320px !important}
+			.panel {width:100% !important; min-width:0px !important}
+			.panel-padded {width:95% !important; padding:0 2.5%; min-width:0px !important}
+			.image {height:auto !important; max-width:100% !important}
+			.hide {display:none!important}
 
-			}
-			
-			@media screen {
+		}
 
-				* {} /* custom font */
+		@media screen {
 
-			}
-		</style>
+			* {} /* custom font */
+
+		}
+	</style>
         <!--[if gte mso 9]><xml>
          <o:OfficeDocumentSettings>
           <o:AllowPNG/>
@@ -83,9 +83,8 @@ All code released by Gooey should be to a high standard, and semantic:
     <body>
     
     	<table class="body" width="100%" style="min-width:600px" bgcolor="#ffffff">
-			<tr>
-				<td class="body" align="center" valign="top" style="min-width:600px">
-						
+	    <tr>
+	        <td class="body" align="center" valign="top" style="min-width:600px">			
                     <table width="100%" align="center" style="min-width:600px" border="0" cellpadding="0" cellspacing="0" class="body">
                         <tr>
                             <td align="center">
